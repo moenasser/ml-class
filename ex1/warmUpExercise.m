@@ -9,8 +9,12 @@ A = [];
 %               represent the return values (at the top of the file)
 %               and then set them accordingly. 
 
-
-
+A = zeros(5,5);
+A(1,1) = 1;
+A(2,2) = 1;
+A(3,3) = 1;
+A(4,4) = 1;
+A(5,5) = 1;
 
 
 
